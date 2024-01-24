@@ -1,4 +1,4 @@
-package com.example.manowa_apps
+package yucodelabs.manowa_apps
 
 import io.flutter.embedding.android.FlutterActivity
 
